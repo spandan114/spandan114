@@ -1,12 +1,11 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
 
 - 🌱 I’m currently learning React-native
-- 👯 I’m looking to collaborate on GitHub
+- 👯 I’m looking to collaborate on web development & react-native app development
 - 🤔 I’m looking for help with React-native
 - 💬 Ask me about Web dev related stuff's
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 - 😄 Pronouns: Hi/His
-- ⚡ Fun fact: I code almost 12 hours everyday
 
 [![Linkedin: Spandan Joshi](https://img.shields.io/badge/-spandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spandan-joshi-39ba94171/)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
 [![GitHub spandan114](https://img.shields.io/github/followers/spandan114?label=follow&style=social)](https://github.com/spandan114)
