@@ -7,9 +7,15 @@
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 - 😄 Pronouns: Hi/His
 
-[![Linkedin: Spandan Joshi](https://img.shields.io/badge/-spandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spandan-joshi-39ba94171/)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
-[![GitHub spandan114](https://img.shields.io/github/followers/spandan114?label=follow&style=social)](https://github.com/spandan114)
-[![website](https://img.shields.io/badge/PortfolioWebsite-spandan-2648ff?style=flat-square&logo=google-chrome)](https://spandan114.github.io/spandanjoshi-portfolio/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spandan114)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
+[![Teigram](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spandanj685@gmail.com)
+<a href="https://wa.me/9348982470?text=Hi Job">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+
 
 **Languages and Tools:**  
 
