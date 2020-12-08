@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning React-native
 - 👯 I’m looking to collaborate on web development & react-native app development
 - 🤔 I’m looking for help with React-native
-- 💬 Ask me about Web dev related stuff's
+- 💬 Ask me about Web & Hybrid app dev related stuff's
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
-- 😄 Pronouns: Hi/His
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spandan114)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
