@@ -42,7 +42,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan114&show_icons=true&theme=light&line_height=27" alt="spandan's github stats"/>
 </a>
 
-### MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">Use it</a>
+### MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a>
+### gist  <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a>
+
 
 <div align="center">
   
