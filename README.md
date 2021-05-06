@@ -1,14 +1,11 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
-
-- 🌱 I’m currently learning React-native
-- 👯 I’m looking to collaborate on web development & react-native app development
-- 🤔 I’m looking for help with React-native
-- 💬 Ask me about Web & Hybrid app dev related stuff's
+- 😃 I am working on projects related to Front-end , Beckend-end and Hybrid app development.
+- 💻 currently working in MERN stack development.
+- 🌱 I’m currently learning Flutter
+- 💬 Loking for Colaboration in MERN Stack project's
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spandan114)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
-[![Teigram](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spandanj685@gmail.com)
 <a href="https://wa.me/9348982470?text=Hi Job">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
@@ -16,7 +13,7 @@
 &nbsp;
 
 
-**Languages and Tools:**  
+**Technical Skill's:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
