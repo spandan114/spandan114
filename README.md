@@ -33,18 +33,16 @@
 
 
 <a href="https://github.com/spandan114">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan114&theme=light&hide_langs_below=1" />
+  <img align="center" layout=compact src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan114&layout=compact&theme=light"/>
 </a>
 <a href="https://github.com/spandan114">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan114&show_icons=true&theme=light&line_height=27" alt="spandan's github stats"/>
 </a>
 
-### MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a>
-### gist  <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a>
+**MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a>**
+**gist  <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a>**
 
 
 <div align="center">
-  
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
