@@ -39,8 +39,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spandan114&theme=tokyonight" />
 </p>
 
-**MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a>**
-**gist  <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a>**
+<p>MyJavascript Code Editor  <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a></p>
+<p>gist  <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a></p>
 
 
 <div align="center">
