@@ -1,8 +1,8 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
-- 😃 I am working on projects related to Front-end , Beckend-end and Hybrid app development.
+- 😃 I am working on Fullstack web and Hybrid app development.
 - 💻 currently working in MERN stack development.
-- 🌱 I’m currently learning Flutter
-- 💬 Loking for Colaboration in MERN Stack project's
+- 🌱 I’m currently learning Devops
+- 💬 Loking for Colaboration in MERN Stack & Reactnative project's 
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
