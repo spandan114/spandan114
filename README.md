@@ -1,7 +1,7 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
 - 😃 I am working on Fullstack web and Hybrid app development.
-- 💻 currently working in MERN stack development.
-- 🌱 I’m currently learning Devops
+- 💻 currently working on MERN stack development.
+- 🌱 learning Devops 
 - 💬 Loking for Colaboration in MERN Stack & Reactnative project's 
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 
