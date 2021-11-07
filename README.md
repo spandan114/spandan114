@@ -31,6 +31,13 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+  </p>
+<p align="center">
+  <img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png">
+  <img height="30" src="https://www.trufflesuite.com/img/truffle-logo-light.svg">
+  <img height="30" src="https://www.trufflesuite.com/img/ganache-logomark.svg">
+  <img height="30" src="https://www.logo.wine/a/logo/Ethereum/Ethereum-Logo.wine.svg">
+  <img height="30" src="https://i.imgur.com/GX0qzK1.jpeg">
 </p>
 
 
