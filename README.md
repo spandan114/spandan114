@@ -1,7 +1,7 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
-- 😃 I am working on Fullstack web and Hybrid app development.
-- 🌱 learning Blockchain & Golang . 
-- 💬 Loking for Colaboration in MERN Stack & Reactnative project's .
+- 😃 I can work on web dev, Hybrid app dev & blockchain(web3) based projects.
+- 🌱 learning Golang . 
+- 💬 Loking for Colaboration in web3 project's .
 - 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
