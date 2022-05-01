@@ -1,14 +1,15 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
 - 😃 I can work on web dev, Hybrid app dev & blockchain(web3) based projects.
-- 🌱 learning Golang . 
+- 🌱 learning rust & solana . 
 - 💬 Loking for Colaboration in web3 project's .
-- 📫 How to reach me: [Linkedin - @spandanjoshi](https://www.linkedin.com/in/spandan-joshi-39ba94171/)]
+- 📫 How to reach me: 👇👇👇👇
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:spandanj685@gmail.com)
-<a href="https://wa.me/9348982470?text=Hi Job">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:spandanj685@gmail.com)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12977733/spandan-joshi)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/Spandan114)
+[![Gist](https://img.shields.io/badge/-Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/spandan114)
+
 &nbsp;
 
 
@@ -48,8 +49,6 @@
 </p>
 
 <p>Javascript Code Editor : <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a></p>
-<p>gist : <a href="https://gist.github.com/spandan114">https://gist.github.com/spandan114</a></p>
-<p>stackoverflow : <a href="https://stackoverflow.com/users/12977733/spandan-joshi">https://stackoverflow.com/users/12977733/spandan-joshi</a></p>
 
 <div align="center">
 Show some ❤️ by starring some of the repositories!
