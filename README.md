@@ -1,6 +1,6 @@
 ### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
 - 😃 I can work on web dev, Hybrid app dev & blockchain(web3) based projects.
-- 🌱 learning rust & solana . 
+- 🌱 learning hyperledger . 
 - 💬 Loking for Colaboration in web3 project's .
 - 📫 How to reach me: 👇👇👇👇
 
