@@ -1,55 +1,27 @@
-### Hi there i am [Spandan Joshi!](https://spandan114.github.io/spandanjoshi-portfolio/) 👋
-- 😃 I can work on web dev, Hybrid app dev & blockchain(web3) based projects.
-- 🌱 learning hyperledger . 
-- 💬 Loking for Colaboration in web3 project's .
-- 📫 How to reach me: 👇👇👇👇
+### Hi there i am Spandan Joshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 😃 I am Full Stack Developer with **WEB3** skills.
+- 💬 Looking for Collaborate in any type of project.
+- 🌱 learning Math (Algebra & statistics).
+- 🧑‍🍳 I love to cook and watch web series. 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-joshi-39ba94171/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:spandanj685@gmail.com)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12977733/spandan-joshi)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/Spandan114)
-[![Gist](https://img.shields.io/badge/-Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/spandan114)
+</br>
 
-&nbsp;
-
-
-**Technical Skill's:**  
-
+## Connect with me
 <p align="center">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-  </p>
-<p align="center">
-  <img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png">
-  <img height="30" src="https://www.trufflesuite.com/img/truffle-logo-light.svg">
-  <img height="30" src="https://www.trufflesuite.com/img/ganache-logomark.svg">
-  <img height="30" src="https://www.logo.wine/a/logo/Ethereum/Ethereum-Logo.wine.svg">
-  <img height="30" src="https://i.imgur.com/GX0qzK1.jpeg">
+<a href="https://www.linkedin.com/in/spandan-joshi-39ba94171/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/SpandanDev"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/spandan114"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://telegram.me/Spandan114"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
+<br/>
 
-
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spandan114&theme=github_dark" alt=""></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandan114&theme=github_dark" align="right" alt=""></td>
+  </tr>
+</table>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=spandan114&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spandan114&theme=tokyonight" />
+<img align="center" src="https://skillicons.dev/icons?i=javascript,react,nodejs,nextjs,python,django,mysql,mongodb,redis,tailwind,scss,linux,aws,solidity,docker,figma,firebase,ts&perline=9" alt="Skills"></td>
 </p>
-
-<p>Javascript Code Editor : <a href="https://spandan114.github.io/Just_Javascript/">https://spandan114.github.io/Just_Javascript</a></p>
-
-<div align="center">
-Show some ❤️ by starring some of the repositories!
-</div>
