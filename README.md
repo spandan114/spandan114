@@ -1,7 +1,7 @@
-### Hi there i am Spandan Joshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there I am Spandan Joshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 😃 I am Full Stack Developer with **WEB3** skills.
-- 💬 Looking for Collaborate in any type of project.
-- 🌱 learning Math (Algebra & statistics).
+- 💬 Looking for collaboration in any project.
+- 🌱 learning Machine learning.
 - 🧑‍🍳 I love to cook and watch web series. 
 
 </br>
