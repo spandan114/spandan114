@@ -1,8 +1,8 @@
 ### Hi there I am Spandan Joshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 😃 I am Full Stack Developer with **WEB3** skills.
+- 😃 I am Full Stack Developer with **WEB3** & **Gen AI** skillset.
 - 💬 Looking for collaboration in any project.
-- 🌱 learning Machine learning.
-- 🧑‍🍳 I love to cook and watch web series. 
+- 🌱 learning Machine learning & Pen testing.
+- 🧑‍🍳 I love to cook, eat, and sleep — basically, I'm just a foodie with a coding addiction, dreaming of my next meal between debugging session 
 
 </br>
 
@@ -23,5 +23,5 @@
   </tr>
 </table>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=javascript,react,nodejs,nextjs,python,django,mysql,mongodb,redis,tailwind,scss,linux,aws,solidity,docker,figma,firebase,ts&perline=9" alt="Skills"></td>
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,nodejs,nextjs,python,django,mysql,mongodb,redis,tailwind,scss,linux,aws,solidity,docker,figma,firebase,ts,fastapi,postgres,grafana,prometheus,terraform,langchain,pinecone,chatgpt,ollama&perline=9" alt="Skills"></td>
 </p>
