@@ -2,7 +2,6 @@
 - 😃 I am Full Stack Developer with **WEB3** & **Gen AI** skillset.
 - 💬 Looking for collaboration in any project.
 - 🌱 learning Machine learning & Pen testing.
-- 🧑‍🍳 I love to cook, eat, and sleep — basically, I'm just a foodie with a coding addiction, dreaming of my next meal between debugging session 
 
 </br>
 
